@@ -49,4 +49,3 @@ if (isset($_POST['update_student'])) {
 ?>
 
 <?php include('footer.php'); ?>
-wevwerv
